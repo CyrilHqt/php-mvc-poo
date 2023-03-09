@@ -29,3 +29,4 @@ try {
 } catch (Exception $e){
     $mainController->pageErreur($e->getMessage());
 }
+?>
